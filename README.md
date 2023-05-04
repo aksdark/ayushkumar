@@ -1,2 +1,2 @@
 # ayushkumar
-Sales data visualization of cars
+Sales data visualization of Supermarket
